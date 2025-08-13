@@ -39,6 +39,38 @@ https://templatemo.com/tm-588-ebook-landing
             #section_5 .social-icon-link {
                 color: #222 !important;
             }
+
+            /* Responsive navbar brand logo and center the brand for mobile */
+            @media (max-width: 576px) {
+                .navbar-brand {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    width: 100%;
+                    text-align: center;
+                    margin: 0 auto;
+                }
+                .navbar-brand img {
+                    height: 60px !important; /* smaller logo for mobile */
+                    margin-bottom: 8px;
+                }
+                .navbar-brand span {
+                    width: 100%;
+                    text-align: center;
+                    font-size: 1.1rem;
+                    font-weight: 600;
+                    display: block;
+                }
+                .navbar .container {
+                    justify-content: center !important;
+                }
+            }
+            @media (max-width: 576px) {
+                .navbar {
+                    padding-top: 0.3rem !important;
+                    padding-bottom: 0.3rem !important;
+                }
+            }
         </style>
     </head>
     
