@@ -11,16 +11,101 @@
 
         <!-- CSS FILES -->        
         <link rel="preconnect" href="https://fonts.googleapis.com">
-        
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-
         <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@300;400;600;700&display=swap" rel="stylesheet">
-
         <link href="css/bootstrap.min.css" rel="stylesheet">
-
         <link href="css/bootstrap-icons.css" rel="stylesheet">
-
         <link href="css/templatemo-ebook-landing.css" rel="stylesheet">
+        <style>
+            /* Mobile optimization overrides */
+            body {
+                font-size: 1rem;
+            }
+            .navbar-brand img {
+                height: 60px;
+            }
+            @media (max-width: 991.98px) {
+                .navbar-nav {
+                    background: #fff;
+                    padding: 1rem;
+                }
+                .navbar-brand span {
+                    font-size: 1.1rem;
+                }
+                .hero-section {
+                    padding: 2rem 0;
+                }
+                .hero-image-wrap img {
+                    width: 100%;
+                    max-width: 280px;
+                    margin: 0 auto;
+                    display: block;
+                }
+                .book-section-info h2,
+                .book-section-info h6 {
+                    font-size: 1.2rem;
+                }
+                .featured-section,
+                .book-section,
+                .contact-section {
+                    padding: 1.5rem 0 !important;
+                }
+                .scrollspy-example-2 {
+                    max-height: 450px;
+                    overflow-y: auto;
+                }
+                .scrollspy-example-item-image {
+                    width: 100%;
+                    height: auto;
+                }
+                .nav-pills .nav-link {
+                    font-size: 1rem;
+                    padding: 0.5rem 0.8rem;
+                }
+            }
+            @media (max-width: 575.98px) {
+                .container {
+                    padding-left: 10px;
+                    padding-right: 10px;
+                }
+                .navbar-brand img {
+                    height: 40px;
+                }
+                h1, h2 {
+                    font-size: 1.4rem !important;
+                }
+                h5 {
+                    font-size: 1.1rem !important;
+                }
+                .hero-section .btn.custom-btn {
+                    width: 100%;
+                    margin-bottom: 0.5rem;
+                }
+                .book-section-info {
+                    padding-top: 1rem;
+                }
+                .scrollspy-example-2 {
+                    max-height: 350px;
+                }
+                ul.social-icon {
+                    display: flex;
+                    flex-wrap: wrap;
+                    gap: 0.5rem;
+                }
+                .contact-link {
+                    word-break: break-all;
+                }
+            }
+            /* Ensure images are responsive */
+            img {
+                max-width: 100%;
+                height: auto;
+            }
+            /* Remove horizontal scrolling if present */
+            html, body {
+                overflow-x: hidden;
+            }
+        </style>
 <!--
 
 TemplateMo 588 ebook landing
@@ -37,7 +122,7 @@ https://templatemo.com/tm-588-ebook-landing
             <nav class="navbar navbar-expand-lg">
                 <div class="container">
                     <a class="navbar-brand" href="index.html">
-                        <img src="logo.png" alt="Logo" style="height:100px;">
+                        <img src="logo.png" alt="Logo">
                         <span>Jcan Korean Languange Center</span>
                     </a>
 
@@ -96,15 +181,9 @@ https://templatemo.com/tm-588-ebook-landing
                 <div class="container">
                     <div class="row">
 
-                        
-                                <div class="reviews-group mt-3 mt-lg-0">
-                                    <strong>Start your journey with us</strong>
-
-                            
-
-                                    <small class="ms-3">Antipolo, Rizal</small>
-                                </div>
-                            </div>
+                        <div class="reviews-group mt-3 mt-lg-0">
+                            <strong>Start your journey with us</strong>
+                            <small class="ms-3">Antipolo, Rizal</small>
                         </div>
                     </div>
                 </div>
@@ -125,16 +204,10 @@ https://templatemo.com/tm-588-ebook-landing
                         <div class="col-lg-6 col-12">
                             <div class="book-section-info">
                                 <h6>Work &amp; Live in South, Korea</h6>
-
-
                                 <h2 class="mb-4">About EPS Topik</h2>
-
-                                <p>The EPS or Employment Permit System is a program by the South Korean government that allows foreign workers from partner countries to work legally in Korea in industries such as manufacturing, construction, agriculture, and fisheries.</p>
+                                <p>The EPS or Employment Permit System is a program by the South Korean government that allows foreign workers from partner countries to work legally in Korea in industries such as manufacturing, agriculture, and construction.</p>
                                 <p>To work in Korea, you need to pass the EPS Topik exam, which tests your Korean language skills and understanding of Korean culture. The exam is conducted by the Human Resources Development Service of Korea (HRD Korea).</p>
                                 <p>To prepare for the EPS Topik exam, you can take classes at Jcan Korean School, where we offer comprehensive training programs that cover all aspects of the exam.</p>
-
-
-
                             </div>
                         </div>
 
@@ -149,21 +222,16 @@ https://templatemo.com/tm-588-ebook-landing
 
                         <div class="col-lg-12 col-12 text-center">
                             <h6>What's waiting for you?</h6>
-
                             <h2 class="mb-5">Glimpse of your Journey</h2>
                         </div>
 
-                        <div class="col-lg-4 col-12">
+                        <div class="col-lg-4 col-12 mb-3 mb-lg-0">
                             <nav id="navbar-example3" class="h-100 flex-column align-items-stretch">
                                 <nav class="nav nav-pills flex-column">
                                     <a class="nav-link smoothscroll" href="#item-1"><strong>Introduction</strong></a>
-
                                     <a class="nav-link smoothscroll" href="#item-2"> <strong>Why work in Korea</strong></a>
-
                                     <a class="nav-link smoothscroll" href="#item-3"><strong>The process</strong></a>
-
                                     <a class="nav-link smoothscroll" href="#item-4"><strong>Requirements</strong></a>
-
                                     <a class="nav-link smoothscroll" href="#item-5"><strong>School Schedule</strong></a>
                                 </nav>
                             </nav>
@@ -173,57 +241,37 @@ https://templatemo.com/tm-588-ebook-landing
                             <div data-bs-spy="scroll" data-bs-target="#navbar-example3" data-bs-smooth-scroll="true" class="scrollspy-example-2" tabindex="0">
                                 <div class="scrollspy-example-item" id="item-1">
                                     <h5>Introducing Jcan Korean Languange School</h5>
-
                                     <p>Jcan Korean Language School is dedicated to helping students master the Korean language in an easy, practical, and engaging way. </p>
                                     <p>We offer a variety of courses tailored to different levels and needs, from beginner to advanced, ensuring that every student can find the right fit for their learning journey.</p>
-                                    <p>Our experienced instructor use innovative teaching methods and resources to make learning Korean enjoyable and effective. Whether you're preparing for the EPS Topik exam or simply want to learn Korean for personal or professional reasons, Jcan Korean School is here to support you every step of the way.</p>
-                                    
-
-                               
-
-                                   
+                                    <p>Our experienced instructor use innovative teaching methods and resources to make learning Korean enjoyable and effective. Whether you're preparing for the EPS Topik exam or simply want to learn for personal growth, we are here to support you.</p>
                                 </div>
 
                                 <div class="scrollspy-example-item" id="item-2">
                                     <h5>Why work in Korea?</h5>
-
-                                    <p>Through the EPS program, you can work in South Korea and earn around ₱80,000–₱100,000 or more per month, with higher income possible through overtime, night work, and holiday pay at 150% of the regular rate. </p>
+                                    <p>Through the EPS program, you can work in South Korea and earn around ₱80,000–₱100,000 or more per month, with higher income possible through overtime, night shifts, and bonuses.</p>
                                     <p>Working in Korea offers a unique opportunity to experience a different culture, improve your language skills, and gain valuable work experience in a global economy.</p>
                                     <p>In addition, the EPS program provides a pathway to long-term employment and residency in Korea, making it an attractive option for many foreign workers.</p>
-
-
-                                    
-
                                     <div class="row">
                                         <div class="col-lg-6 col-12 mb-3">
                                             <img src="portrait-mature-smiling-authoress-sitting-desk.jpg" class="scrollspy-example-item-image img-fluid" alt="">
                                         </div>
-
                                         <div class="col-lg-6 col-12 mb-3">
                                             <img src="businessman-sitting-by-table-cafe.jpg" class="scrollspy-example-item-image img-fluid" alt="">
                                         </div>
                                     </div>
-
-                                  
                                 </div>
 
                                 <div class="scrollspy-example-item" id="item-3">
                                     <h5>The process</h5>
-
-                                    <p>To become an EPS worker, first, you need to register and take the EPS-TOPIK Korean language test. Once you pass the exam, you can apply for job placement through the official EPS system.</p>
-                                    <p>After securing a job offer, you will need to complete the necessary paperwork and obtain a work visa. The EPS program also provides support for workers in Korea, including language training and cultural orientation.</p>
-                                    <p>At Jcan Korean School, we offer comprehensive training programs that cover all aspects of the EPS process, from language preparation to job placement assistance. Our experienced instructor will guide you through every step, ensuring that you are well-prepared for your journey to Korea.</p>
-                                    
-
-                                    
+                                    <p>To become an EPS worker, first, you need to register and take the EPS-TOPIK Korean language test. Once you pass the exam, you can apply for job placement through the EPS system.</p>
+                                    <p>After securing a job offer, you will need to complete the necessary paperwork and obtain a work visa. The EPS program also provides support for workers in Korea, helping them adjust and thrive.</p>
+                                    <p>At Jcan Korean School, we offer comprehensive training programs that cover all aspects of the EPS process, from language preparation to job placement assistance.</p>
                                     <div class="row align-items-center">
                                         <div class="col-lg-6 col-12">
                                             <img src="tablet-screen-contents.jpg" class="img-fluid" alt="">
                                         </div>
-
                                         <div class="col-lg-6 col-12">
                                             <p>Trust the Process</p>
-
                                             <p><strong>Our vision is to help everyone learn Korean easily and succeed in working in South Korea through the EPS program.</strong></p>
                                         </div>
                                     </div>
@@ -231,29 +279,21 @@ https://templatemo.com/tm-588-ebook-landing
 
                                 <div class="scrollspy-example-item" id="item-4">
                                     <h5>Requirements</h5>
-                                    
-
                                     <p> • Age: 18 to 38 years old</p>
                                     <p> • No criminal record</p>
-                                    <p> • Peson with no forced detention/deportation</p>
+                                    <p> • Person with no forced detention/deportation</p>
                                     <p> • Must have a valid passport</p>
                                     <p> • Person with no disqualifying/restriction factors on leaving Philippines</p>  
                                     <p> • Person with no color blindness or color weakness</p>
                                     <p> • Person with no existing or active EPS application</p>
                                     <p> • Person who have no experience of staying in South Korea for 5 yrs or longer</p>
                                     <p> • Person who are not diagnosed with infectious diseases as syphilis, tubercolosis, hepatitis, etc</p>
-
-
-                                   
                                     <img src="portrait-mature-smiling-authoress-sitting-desk.jpg" class="scrollspy-example-item-image img-fluid mb-3" alt="">
-
                                 </div>
 
                                 <div class="scrollspy-example-item" id="item-5">
                                     <h5>Schedule</h5>
-
                                     <p>30 days Training (6 weeks) </p>
-
                                     <p>Class Schedule</p>
                                     <ul>
                                         <li>Monday to Friday</li>
@@ -262,12 +302,9 @@ https://templatemo.com/tm-588-ebook-landing
                                         <li>Night Session: 6:00 PM - 10:00 PM</li>
                                         <li>Saturday - Sunday: 8:00 AM - 5:00 PM</li>
                                     </ul>
-
                                     <p><strong>Schedules are subject for availability upon contact</strong></p>
-
-                                    <blockquote class="blockquote">Don't hesistate, How would you know if you would succeed if you don't try</blockquote>
-
-                                    <p>For futher information, please refer to our contact info at the end of the page.</p>
+                                    <blockquote class="blockquote">Don't hesitate, How would you know if you would succeed if you don't try</blockquote>
+                                    <p>For further information, please refer to our contact info at the end of the page.</p>
                                 </div>
                             </div>
                         </div>
@@ -276,51 +313,33 @@ https://templatemo.com/tm-588-ebook-landing
                 </div>
             </section>
 
-
-        
-
             <section class="contact-section section-padding" id="section_5">
                 <div class="container">
                     <div class="row">
-
-                        
                         <div class="col-lg-6 col-12">
                             <h6 class="mt-5">Say 안녕 and talk to us</h6>
-
                             <h2 class="mb-4">Contact</h2>
-
                             <p class="mb-3">
                                 <i class="bi-geo-alt me-2"></i>
                                 Cupang, Antipolo City, Rizal, Philippines
                             </p>
-
                             <p class="mb-2">
-                                <a href="tel: 0960 524 0834" class="contact-link">
+                                <a href="tel:09605240834" class="contact-link">
                                     0960 524 0834
                                 </a>
                             </p>
-
                             <p>
-                                <a href="jcanklc822@gmail.com" class="contact-link">
+                                <a href="mailto:jcanklc822@gmail.com" class="contact-link">
                                     jcanklc822@gmail.com
                                 </a>
                             </p>
-
                             <h6 class="site-footer-title mt-5 mb-3">Social</h6>
-
                             <ul class="social-icon mb-4">
-                               
-                               
                                 <li class="social-icon-item">
                                     <a href="https://www.facebook.com/jcanklc822" class="social-icon-link bi-facebook"></a>
                                 </li>
-
-                                
                             </ul>
-
-                      
                         </div>
-
                     </div>
                 </div>
             </section>
@@ -334,5 +353,4 @@ https://templatemo.com/tm-588-ebook-landing
         <script src="js/custom.js"></script>
 
     </body>
-
 </html>
