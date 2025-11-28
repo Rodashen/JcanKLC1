@@ -63,6 +63,10 @@ https://templatemo.com/tm-588-ebook-landing
                             <li class="nav-item">
                                 <a class="nav-link click-scroll" href="#section_5">Contact</a>
                             </li>
+
+                            <li class="nav-item">
+                                <a class="nav-link" href="#" onclick="handleExamAccess(event)">Exams</a>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -462,7 +466,7 @@ https://templatemo.com/tm-588-ebook-landing
                             </p>
 
                             <p>
-                                <a href="jcanklc822@gmail.com" class="contact-link">
+                                <a href="mailto:jcanklc822@gmail.com" class="contact-link">
                                     jcanklc822@gmail.com
                                 </a>
                             </p>
@@ -493,6 +497,31 @@ https://templatemo.com/tm-588-ebook-landing
         <script src="js/jquery.sticky.js"></script>
         <script src="js/click-scroll.js"></script>
         <script src="js/custom.js"></script>
+
+        <script>
+            // Exam password access handler
+            function handleExamAccess(event) {
+                event.preventDefault();
+                
+                const password = prompt("Enter the password to access the exams:", "");
+                
+                if (password === null) {
+                    // User clicked Cancel
+                    return;
+                }
+                
+                // Change this password to your desired password
+                const correctPassword = "JCAN2025";
+                
+                if (password === correctPassword) {
+                    // Correct password - redirect to exams page
+                    window.location.href = "exams.html";
+                } else {
+                    // Incorrect password
+                    alert("Incorrect password. Please try again.");
+                }
+            }
+        </script>
 
     </body>
 </html>
