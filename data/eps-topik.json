@@ -1,0 +1,1703 @@
+{
+  "version": 1,
+  "id": "reference-2026-09-20",
+  "title": "EPS-TOPIK Mock Test 01",
+  "source": "https://my.epstopik-exam.com/check",
+  "retrieved": "2026-09-20",
+  "rights": "User confirmed permission to reuse source materials in this task on 2026-09-20. Not independently licensed by this repository.",
+  "sectionSeconds": 1500,
+  "questions": [
+    {
+      "id": "reference-2614",
+      "sourceId": "2614",
+      "number": 1,
+      "section": "reading",
+      "group": "41",
+      "instruction": "[1-4] 다음 그림을 보고 맞는 단어나 문장을 고르십시오.",
+      "prompt": "",
+      "images": [
+        "media/eps-topik/c6cbb8b8958ee252.jpg"
+      ],
+      "choices": [
+        {
+          "text": "손대다",
+          "images": []
+        },
+        {
+          "text": "떠들다",
+          "images": []
+        },
+        {
+          "text": "뛰어다니다",
+          "images": []
+        },
+        {
+          "text": "자리를 차지하다",
+          "images": []
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "id": "reference-3102",
+      "sourceId": "3102",
+      "number": 2,
+      "section": "reading",
+      "group": "41",
+      "instruction": "[1-4] 다음 그림을 보고 맞는 단어나 문장을 고르십시오.",
+      "prompt": "",
+      "images": [
+        "media/eps-topik/9f29cb6b1557bf97.jpg"
+      ],
+      "choices": [
+        {
+          "text": "피로연을 하다",
+          "images": []
+        },
+        {
+          "text": "사진 촬영을 하다",
+          "images": []
+        },
+        {
+          "text": "하객",
+          "images": []
+        },
+        {
+          "text": "폐백을 드리다",
+          "images": []
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "id": "reference-245",
+      "sourceId": "245",
+      "number": 3,
+      "section": "reading",
+      "group": "41",
+      "instruction": "[1-4] 다음 그림을 보고 맞는 단어나 문장을 고르십시오.",
+      "prompt": "",
+      "images": [
+        "media/eps-topik/5af409e96179c4aa.jpg"
+      ],
+      "choices": [
+        {
+          "text": "여기는 꽃을 파는 가게입니다.",
+          "images": []
+        },
+        {
+          "text": "여기는 과일을 파는 가게입니다.",
+          "images": []
+        },
+        {
+          "text": "여기는 생선을 파는 가게입니다.",
+          "images": []
+        },
+        {
+          "text": "여기는 그릇을 파는 가게입니다.",
+          "images": []
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "id": "reference-2337",
+      "sourceId": "2337",
+      "number": 4,
+      "section": "reading",
+      "group": "41",
+      "instruction": "[1-4] 다음 그림을 보고 맞는 단어나 문장을 고르십시오.",
+      "prompt": "",
+      "images": [
+        "media/eps-topik/b474190b418fc363.jpg"
+      ],
+      "choices": [
+        {
+          "text": "바다",
+          "images": []
+        },
+        {
+          "text": "동굴",
+          "images": []
+        },
+        {
+          "text": "강",
+          "images": []
+        },
+        {
+          "text": "섬",
+          "images": []
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "id": "reference-514",
+      "sourceId": "514",
+      "number": 5,
+      "section": "reading",
+      "group": "42",
+      "instruction": "[5-8] 빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+      "prompt": "컨베이어를 검사하거나 수리할 때는 스위치에 “________” 이라는 표지판을 붙여서,다른 사람이 컨베이어를 작동시키지 않도록 해야 합니다.",
+      "images": [],
+      "choices": [
+        {
+          "text": "점검 중",
+          "images": []
+        },
+        {
+          "text": "외출 중",
+          "images": []
+        },
+        {
+          "text": "식사 중",
+          "images": []
+        },
+        {
+          "text": "통화 중",
+          "images": []
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "reference-2480",
+      "sourceId": "2480",
+      "number": 6,
+      "section": "reading",
+      "group": "42",
+      "instruction": "[5-8] 빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+      "prompt": "택시를 타는 것보다 지하철이나 버스를 이용하는 것이 돈이 덜 ________. 택시는 편하지\n만 좀 비쌉니다. 그래서 저는 지하철이나 버스를 자주 이용합니다.",
+      "images": [],
+      "choices": [
+        {
+          "text": "듭니다",
+          "images": []
+        },
+        {
+          "text": "탑니다",
+          "images": []
+        },
+        {
+          "text": "걸립니다",
+          "images": []
+        },
+        {
+          "text": "보입니다",
+          "images": []
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "reference-2902",
+      "sourceId": "2902",
+      "number": 7,
+      "section": "reading",
+      "group": "42",
+      "instruction": "[5-8] 빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+      "prompt": "제 방에 침대하고 책상이 필요합니다. 그래서 내일 ________에 가서 침대하고 책상을 사려고 합니다.",
+      "images": [],
+      "choices": [
+        {
+          "text": "서점",
+          "images": []
+        },
+        {
+          "text": "음식점",
+          "images": []
+        },
+        {
+          "text": "가구점",
+          "images": []
+        },
+        {
+          "text": "편의점",
+          "images": []
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "id": "reference-2383",
+      "sourceId": "2383",
+      "number": 8,
+      "section": "reading",
+      "group": "42",
+      "instruction": "[5-8] 빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+      "prompt": "저는 지하철을 타고 회사에 다닙니다. 그런데 출퇴근 시간에는 지하철에 사람이 너무 많\n아서 지하철을 타기가 ______.",
+      "images": [],
+      "choices": [
+        {
+          "text": "빠릅니다",
+          "images": []
+        },
+        {
+          "text": "쉽습니다",
+          "images": []
+        },
+        {
+          "text": "힘듭니다",
+          "images": []
+        },
+        {
+          "text": "편합니다",
+          "images": []
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "id": "reference-844",
+      "sourceId": "844",
+      "number": 9,
+      "section": "reading",
+      "group": "51",
+      "instruction": "[9-12] 다음 질문에 답하십시오 .",
+      "prompt": "시장에서 산 물건에 다음과 같은 표지가 붙어 있었습니다 이 표지가 나타내는 뜻은 무 . 엇입니까?",
+      "images": [
+        "media/eps-topik/2ce781cd67430aca.jpg"
+      ],
+      "choices": [
+        {
+          "text": "이것은 깨지기 쉬운 물건입니다.",
+          "images": []
+        },
+        {
+          "text": "이것은 외국에서 수입한 물건입니다.",
+          "images": []
+        },
+        {
+          "text": "이것은 검사에서 합격한 품질이 좋은 물건입니다.",
+          "images": []
+        },
+        {
+          "text": "이것은 백화점에서만 살 수 있는 비싼 물건입니다.",
+          "images": []
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "id": "reference-852",
+      "sourceId": "852",
+      "number": 10,
+      "section": "reading",
+      "group": "51",
+      "instruction": "[9-12] 다음 질문에 답하십시오 .",
+      "prompt": "다음 표의 내용과 맞지 않는 것을 고르십시오.",
+      "images": [
+        "media/eps-topik/f8224b871938a296.jpg"
+      ],
+      "choices": [
+        {
+          "text": "압둘 씨는 일반석 표를 샀습니다.",
+          "images": []
+        },
+        {
+          "text": "압둘 씨는 표를 한 장 예매했습니다.",
+          "images": []
+        },
+        {
+          "text": "압둘 씨는 비행기로 대구까지 갑니다.",
+          "images": []
+        },
+        {
+          "text": "압둘 씨는 3월 26일에 서울에서 출발합니다.",
+          "images": []
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "id": "reference-868",
+      "sourceId": "868",
+      "number": 11,
+      "section": "reading",
+      "group": "51",
+      "instruction": "[9-12] 다음 질문에 답하십시오 .",
+      "prompt": "다음 중 아래 글의 내용에서 나오지 않은 것은 무엇입니까?\n작업장에서는 안전을 위하여 보호구를 착용해야 합니다.보호구에는 머리를 보호하기 위한 안전모,발을 보호하기 위한 안전화,눈을 보호하기 위한 보안경 등이 있습\n니다.",
+      "images": [],
+      "choices": [
+        {
+          "text": "",
+          "images": [
+            "media/eps-topik/ca23b9a7782e4913.jpg"
+          ]
+        },
+        {
+          "text": "",
+          "images": [
+            "media/eps-topik/0b76feda24bae5a7.jpg"
+          ]
+        },
+        {
+          "text": "",
+          "images": [
+            "media/eps-topik/e0870717f8ef16f5.jpg"
+          ]
+        },
+        {
+          "text": "",
+          "images": [
+            "media/eps-topik/53b85662c88523d8.jpg"
+          ]
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "id": "reference-778",
+      "sourceId": "778",
+      "number": 12,
+      "section": "reading",
+      "group": "51",
+      "instruction": "[9-12] 다음 질문에 답하십시오 .",
+      "prompt": "소주를 두 병 마셨습니다 얼마를 내야 합니까 . ?",
+      "images": [
+        "media/eps-topik/73ab3118ada9f2b1.jpg"
+      ],
+      "choices": [
+        {
+          "text": "5,000원",
+          "images": []
+        },
+        {
+          "text": "6,000원",
+          "images": []
+        },
+        {
+          "text": "7,000원",
+          "images": []
+        },
+        {
+          "text": "8,000원",
+          "images": []
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "id": "reference-2992",
+      "sourceId": "2992",
+      "number": 13,
+      "section": "reading",
+      "group": "52",
+      "instruction": "[13-14] 빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+      "prompt": "가: 어서 오세요. 뭘 드릴까요?\n나: 오렌지 있어요?\n가: 네, 이건 천 원이고 저건 천오백 원이에요.\n나: 그럼, ________.",
+      "images": [],
+      "choices": [
+        {
+          "text": "모두 얼마예요?",
+          "images": []
+        },
+        {
+          "text": "몇 개 드릴까요?",
+          "images": []
+        },
+        {
+          "text": "이거 다섯 개 주세요.",
+          "images": []
+        },
+        {
+          "text": "사과 다섯 개 주세요.",
+          "images": []
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "id": "reference-543",
+      "sourceId": "543",
+      "number": 14,
+      "section": "reading",
+      "group": "52",
+      "instruction": "[13-14] 빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+      "prompt": "가：여보세요. 거기 한국은행이지요?\n나：아닙니다. ______________. 여기는 우체국입니다.",
+      "images": [],
+      "choices": [
+        {
+          "text": "잘 안 들립니다",
+          "images": []
+        },
+        {
+          "text": "잘못 거셨습니다",
+          "images": []
+        },
+        {
+          "text": "여기 그런 사람 없습니다",
+          "images": []
+        },
+        {
+          "text": "나중에 다시 전화하십시오",
+          "images": []
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "id": "reference-927",
+      "sourceId": "927",
+      "number": 15,
+      "section": "reading",
+      "group": "53",
+      "instruction": "[15-16] 다음 글을 읽고 무엇에 대한 글인지 고르십시오.",
+      "prompt": "이 글의 내용과 같은 것을 고르십시오.\n학교에 갈 때 집 앞에 하얀 강아지가 한 마리 있는 것을 보았습니다. 그런데 학교가\n끝나고 집에 왔을 때도 그 강아지가 우리 집 앞에 있었습니다. 아마 길을 잃어버린\n것 같았습니다. 나는 그 강아지를 집으로 데리고 들어와서 깨끗이 목욕을 시키고\n먹을 것을 주었습니다. 그리고 종이에“강아지를 잃어버린 분은 연락하십시오.”라고\n써서 우리 집 대문 앞에 붙였습니다. 그러나 한 달이 지나도 주인이 나타나지 않았\n습니다. 그래서우리가족은그강아지를 키우기로했습니다. 나는아주기뻤습니다.\n학교가 끝나고 집에 가면 강아지는 꼬리를 흔들며 나를 반갑게 맞이해 줍니다.",
+      "images": [],
+      "choices": [
+        {
+          "text": "강아지는 언제나 학교 문 앞에서 나를 기다립니다.",
+          "images": []
+        },
+        {
+          "text": "잃어버린 강아지를 한 달 만에 찾아서 기뻤습니다.",
+          "images": []
+        },
+        {
+          "text": "우리 가족은 길 잃은 강아지를 키우기로 했습니다.",
+          "images": []
+        },
+        {
+          "text": "하얀 강아지가 예뻐서 시장에서 한 마리 샀습니다.",
+          "images": []
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "id": "reference-988",
+      "sourceId": "988",
+      "number": 16,
+      "section": "reading",
+      "group": "53",
+      "instruction": "[15-16] 다음 글을 읽고 무엇에 대한 글인지 고르십시오.",
+      "prompt": "이 글의 내용과 다른 것을 고르십시오.\n저는 인천에 있는 공장에서 일합니다. 우리 공장에서는 약병과 술병 그리고 음료수\n병 같은 여러 가지 유리병을 만듭니다. 제 친구도 저와 같은 공장에서 일하는데, 이\n번 달에 우리는근무 시간이 서로달라서 만날 수가없었습니다. 저는 아침7시부터\n오후 3시까지 일하고, 제 친구는 오후 3시부터 밤 10시까지 일했습니다. 일하는 시\n간이 다르니까, 만나서 같이 이야기를 하거나 놀 시간이 별로 없었습니다. 다음 달\n에는 근무 시간이 같았으면 좋겠습니다.",
+      "images": [],
+      "choices": [
+        {
+          "text": "이 사람은 유리병을 만드는 공장에서 일합니다.",
+          "images": []
+        },
+        {
+          "text": "이 사람의 친구는 다른 직장에서 일하고 있습니다.",
+          "images": []
+        },
+        {
+          "text": "이 사람은 이번 달에 7:00 - 15:00 까지 일했습니다.",
+          "images": []
+        },
+        {
+          "text": "이 사람은 이번 달에 친구와 근무 시간이 달랐습니다.",
+          "images": []
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "id": "reference-661",
+      "sourceId": "661",
+      "number": 17,
+      "section": "reading",
+      "group": "54",
+      "instruction": "[17-18] 다음 글을 읽고 내용과 같은 것을 고르십시오.",
+      "prompt": "자동차가 고장이 나서 고쳐야 합니다 어떤 표지를 찾아야 합니까?",
+      "images": [],
+      "choices": [
+        {
+          "text": "",
+          "images": [
+            "media/eps-topik/07ad802d276b5473.jpg"
+          ]
+        },
+        {
+          "text": "",
+          "images": [
+            "media/eps-topik/0a150fd5268779c3.jpg"
+          ]
+        },
+        {
+          "text": "",
+          "images": [
+            "media/eps-topik/5a569f359b6fd032.jpg"
+          ]
+        },
+        {
+          "text": "",
+          "images": [
+            "media/eps-topik/3d4c3bf1fdd44102.jpg"
+          ]
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "id": "reference-689",
+      "sourceId": "689",
+      "number": 18,
+      "section": "reading",
+      "group": "54",
+      "instruction": "[17-18] 다음 글을 읽고 내용과 같은 것을 고르십시오.",
+      "prompt": "다음 내용에 맞는 표지를 고르십시오.\n여기에는 물이 닿으면 안 됩니다. 물기가 없게 하십시오.",
+      "images": [],
+      "choices": [
+        {
+          "text": "",
+          "images": [
+            "media/eps-topik/c39b38ed08b24a0f.jpg"
+          ]
+        },
+        {
+          "text": "",
+          "images": [
+            "media/eps-topik/76c70964cdaf1881.jpg"
+          ]
+        },
+        {
+          "text": "",
+          "images": [
+            "media/eps-topik/f63d32bd0229c468.jpg"
+          ]
+        },
+        {
+          "text": "",
+          "images": [
+            "media/eps-topik/9b5f9023baca9517.jpg"
+          ]
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "reference-2804",
+      "sourceId": "2804",
+      "number": 19,
+      "section": "reading",
+      "group": "55",
+      "instruction": "[19-20] 다음 질문에 답하십시오.",
+      "prompt": "공작기계의 구비조건으로 거리가 먼 것은?",
+      "images": [],
+      "choices": [
+        {
+          "text": "높은 정밀도를 가질 것",
+          "images": []
+        },
+        {
+          "text": "가공능력이 클 것",
+          "images": []
+        },
+        {
+          "text": "고장이 적고 효율이 좋을 것",
+          "images": []
+        },
+        {
+          "text": "가격이 비싸고 운전비용이 저렴할 것",
+          "images": []
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "id": "reference-2850",
+      "sourceId": "2850",
+      "number": 20,
+      "section": "reading",
+      "group": "55",
+      "instruction": "[19-20] 다음 질문에 답하십시오.",
+      "prompt": "기계 제도에 사용하는 선은 여러 종류가 있다. 이들 선은 사용처에 따른 명칭, 선의 모양에따른 명칭이 각기 다르다. 다음 선의 종류중 선의 종류에 따른 분류에 속하지 않는 것은?",
+      "images": [],
+      "choices": [
+        {
+          "text": "가는 실선",
+          "images": []
+        },
+        {
+          "text": "파선",
+          "images": []
+        },
+        {
+          "text": "1점쇄선",
+          "images": []
+        },
+        {
+          "text": "절단선",
+          "images": []
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "id": "reference-1363",
+      "sourceId": "1363",
+      "number": 21,
+      "section": "listening",
+      "group": "43",
+      "instruction": "[21-24] 들은 것을 고르십시오.",
+      "prompt": "",
+      "images": [],
+      "choices": [
+        {
+          "text": "아예",
+          "images": []
+        },
+        {
+          "text": "외야",
+          "images": []
+        },
+        {
+          "text": "야외",
+          "images": []
+        },
+        {
+          "text": "예의",
+          "images": []
+        }
+      ],
+      "answer": 1,
+      "audio": "media/eps-topik/165c02ca0bfecc0b.mp3"
+    },
+    {
+      "id": "reference-1430",
+      "sourceId": "1430",
+      "number": 22,
+      "section": "listening",
+      "group": "43",
+      "instruction": "[21-24] 들은 것을 고르십시오.",
+      "prompt": "",
+      "images": [],
+      "choices": [
+        {
+          "text": "같이 갔어요.",
+          "images": []
+        },
+        {
+          "text": "꽃이 없어요.",
+          "images": []
+        },
+        {
+          "text": "가치가 없어요.",
+          "images": []
+        },
+        {
+          "text": "기차가 왔어요.",
+          "images": []
+        }
+      ],
+      "answer": 0,
+      "audio": "media/eps-topik/3619c9582e079f64.mp3"
+    },
+    {
+      "id": "reference-1445",
+      "sourceId": "1445",
+      "number": 23,
+      "section": "listening",
+      "group": "43",
+      "instruction": "[21-24] 들은 것을 고르십시오.",
+      "prompt": "",
+      "images": [],
+      "choices": [
+        {
+          "text": "대사관에 가겠어요.",
+          "images": []
+        },
+        {
+          "text": "도서관에 가겠어요.",
+          "images": []
+        },
+        {
+          "text": "게시판에 크게 써요.",
+          "images": []
+        },
+        {
+          "text": "다섯 시에 켜겠어요.",
+          "images": []
+        }
+      ],
+      "answer": 3,
+      "audio": "media/eps-topik/ae99f14e6d493c90.mp3"
+    },
+    {
+      "id": "reference-1131",
+      "sourceId": "1131",
+      "number": 24,
+      "section": "listening",
+      "group": "43",
+      "instruction": "[21-24] 들은 것을 고르십시오.",
+      "prompt": "",
+      "images": [],
+      "choices": [
+        {
+          "text": "빵이 작아요.",
+          "images": []
+        },
+        {
+          "text": "방이 작아요.",
+          "images": []
+        },
+        {
+          "text": "방에 적어요.",
+          "images": []
+        },
+        {
+          "text": "상이 작아요.",
+          "images": []
+        }
+      ],
+      "answer": 1,
+      "audio": "media/eps-topik/bff098fc464963c6.mp3"
+    },
+    {
+      "id": "reference-1685",
+      "sourceId": "1685",
+      "number": 25,
+      "section": "listening",
+      "group": "44",
+      "instruction": "[25-29] 다옴을 듣고 그림이 알맞은 답을 고르십시오.",
+      "prompt": "여기는 어디입니까?",
+      "images": [
+        "media/eps-topik/7347b4acac9e76a4.jpg"
+      ],
+      "choices": [
+        {
+          "text": "",
+          "images": []
+        },
+        {
+          "text": "",
+          "images": []
+        },
+        {
+          "text": "",
+          "images": []
+        },
+        {
+          "text": "",
+          "images": []
+        }
+      ],
+      "answer": 1,
+      "audio": "media/eps-topik/053b1efd4f5e953b.mp3"
+    },
+    {
+      "id": "reference-1213",
+      "sourceId": "1213",
+      "number": 26,
+      "section": "listening",
+      "group": "44",
+      "instruction": "[25-29] 다옴을 듣고 그림이 알맞은 답을 고르십시오.",
+      "prompt": "",
+      "images": [
+        "media/eps-topik/faaaf9a7ca93950d.jpg"
+      ],
+      "choices": [
+        {
+          "text": "",
+          "images": []
+        },
+        {
+          "text": "",
+          "images": []
+        },
+        {
+          "text": "",
+          "images": []
+        },
+        {
+          "text": "",
+          "images": []
+        }
+      ],
+      "answer": 1,
+      "audio": "media/eps-topik/416c89bb98dd869a.mp3"
+    },
+    {
+      "id": "reference-1764",
+      "sourceId": "1764",
+      "number": 27,
+      "section": "listening",
+      "group": "44",
+      "instruction": "[25-29] 다옴을 듣고 그림이 알맞은 답을 고르십시오.",
+      "prompt": "이것의 맛은 어떻습니까?",
+      "images": [
+        "media/eps-topik/ea6daa8f67f4aae7.jpg"
+      ],
+      "choices": [
+        {
+          "text": "",
+          "images": []
+        },
+        {
+          "text": "",
+          "images": []
+        },
+        {
+          "text": "",
+          "images": []
+        },
+        {
+          "text": "",
+          "images": []
+        }
+      ],
+      "answer": 0,
+      "audio": "media/eps-topik/85493dfd684f5db5.mp3"
+    },
+    {
+      "id": "reference-1263",
+      "sourceId": "1263",
+      "number": 28,
+      "section": "listening",
+      "group": "44",
+      "instruction": "[25-29] 다옴을 듣고 그림이 알맞은 답을 고르십시오.",
+      "prompt": "",
+      "images": [
+        "media/eps-topik/a89b0e9dede6632a.jpg"
+      ],
+      "choices": [
+        {
+          "text": "",
+          "images": []
+        },
+        {
+          "text": "",
+          "images": []
+        },
+        {
+          "text": "",
+          "images": []
+        },
+        {
+          "text": "",
+          "images": []
+        }
+      ],
+      "answer": 1,
+      "audio": "media/eps-topik/f8d2114b5d924faf.mp3"
+    },
+    {
+      "id": "reference-1254",
+      "sourceId": "1254",
+      "number": 29,
+      "section": "listening",
+      "group": "44",
+      "instruction": "[25-29] 다옴을 듣고 그림이 알맞은 답을 고르십시오.",
+      "prompt": "",
+      "images": [
+        "media/eps-topik/a3b38f23db7a13a9.jpg"
+      ],
+      "choices": [
+        {
+          "text": "",
+          "images": []
+        },
+        {
+          "text": "",
+          "images": []
+        },
+        {
+          "text": "",
+          "images": []
+        },
+        {
+          "text": "",
+          "images": []
+        }
+      ],
+      "answer": 0,
+      "audio": "media/eps-topik/9ffd4267d559666c.mp3"
+    },
+    {
+      "id": "reference-2011",
+      "sourceId": "2011",
+      "number": 30,
+      "section": "listening",
+      "group": "45",
+      "instruction": "[30-33] 다음을 듣고 믈음에 알믖은 대 담을 고르십시오.",
+      "prompt": "",
+      "images": [],
+      "choices": [
+        {
+          "text": "아니요, 카드는 안 돼요.",
+          "images": []
+        },
+        {
+          "text": "아니요, 현금으로 낼게요.",
+          "images": []
+        },
+        {
+          "text": "아니요, 5,000원에 팔아요.",
+          "images": []
+        },
+        {
+          "text": "아니요, 전화카드는 안 팔아요 , .",
+          "images": []
+        }
+      ],
+      "answer": 3,
+      "audio": "media/eps-topik/4bc090fec3dd94f4.mp3"
+    },
+    {
+      "id": "reference-2017",
+      "sourceId": "2017",
+      "number": 31,
+      "section": "listening",
+      "group": "45",
+      "instruction": "[30-33] 다음을 듣고 믈음에 알믖은 대 담을 고르십시오.",
+      "prompt": "",
+      "images": [],
+      "choices": [
+        {
+          "text": "아니요, 그냥 주세요.",
+          "images": []
+        },
+        {
+          "text": "아니요, 설탕이 없어요.",
+          "images": []
+        },
+        {
+          "text": "아니요, 커피로 주세요.",
+          "images": []
+        },
+        {
+          "text": "아니요, 한 잔만 마실 거예요.",
+          "images": []
+        }
+      ],
+      "answer": 0,
+      "audio": "media/eps-topik/0448b6ebb67c9f25.mp3"
+    },
+    {
+      "id": "reference-2026",
+      "sourceId": "2026",
+      "number": 32,
+      "section": "listening",
+      "group": "45",
+      "instruction": "[30-33] 다음을 듣고 믈음에 알믖은 대 담을 고르십시오.",
+      "prompt": "",
+      "images": [],
+      "choices": [
+        {
+          "text": "네, 길이 복잡해요.",
+          "images": []
+        },
+        {
+          "text": "네, 운전할 수 없어요.",
+          "images": []
+        },
+        {
+          "text": "네, 운전할 줄 알아요.",
+          "images": []
+        },
+        {
+          "text": "네, 버스 번호를 알아요",
+          "images": []
+        }
+      ],
+      "answer": 2,
+      "audio": "media/eps-topik/8b4707b710c7251b.mp3"
+    },
+    {
+      "id": "reference-2016",
+      "sourceId": "2016",
+      "number": 33,
+      "section": "listening",
+      "group": "45",
+      "instruction": "[30-33] 다음을 듣고 믈음에 알믖은 대 담을 고르십시오.",
+      "prompt": "",
+      "images": [],
+      "choices": [
+        {
+          "text": "네, 전화하고 있어요.",
+          "images": []
+        },
+        {
+          "text": "네, 새 걸 사고 싶어요.",
+          "images": []
+        },
+        {
+          "text": "네, 그게 제 휴대폰이에요.",
+          "images": []
+        },
+        {
+          "text": "네, 휴대폰이 세 대 있어요.",
+          "images": []
+        }
+      ],
+      "answer": 1,
+      "audio": "media/eps-topik/e10d9df86c18a4a1.mp3"
+    },
+    {
+      "id": "reference-1623",
+      "sourceId": "1623",
+      "number": 34,
+      "section": "listening",
+      "group": "46",
+      "instruction": "[34-35] 다음을 듣고 이어지는 말을 고르십시오.",
+      "prompt": "",
+      "images": [],
+      "choices": [
+        {
+          "text": "오른쪽으로 갑시다.",
+          "images": []
+        },
+        {
+          "text": "지금 우체국에 갑니다.",
+          "images": []
+        },
+        {
+          "text": "왼쪽에 차가 있습니다.",
+          "images": []
+        },
+        {
+          "text": "저기가 동대문 시장입니다.",
+          "images": []
+        }
+      ],
+      "answer": 0,
+      "audio": "media/eps-topik/4ee932b714461765.mp3"
+    },
+    {
+      "id": "reference-1576",
+      "sourceId": "1576",
+      "number": 35,
+      "section": "listening",
+      "group": "46",
+      "instruction": "[34-35] 다음을 듣고 이어지는 말을 고르십시오.",
+      "prompt": "",
+      "images": [],
+      "choices": [
+        {
+          "text": "저것은 제 가방이에요.",
+          "images": []
+        },
+        {
+          "text": "저기가 우리 회사예요.",
+          "images": []
+        },
+        {
+          "text": "저는 태국에서 왔어요.",
+          "images": []
+        },
+        {
+          "text": "저는 음악 듣는 것을 좋아해요.",
+          "images": []
+        }
+      ],
+      "answer": 3,
+      "audio": "media/eps-topik/44089d7bdd59ad1f.mp3"
+    },
+    {
+      "id": "reference-1663",
+      "sourceId": "1663",
+      "number": 36,
+      "section": "listening",
+      "group": "47",
+      "instruction": "[36-37] 다음을 듣고 그림 내용과 관계 있는 그림을 고르십시오.",
+      "prompt": "",
+      "images": [],
+      "choices": [
+        {
+          "text": "",
+          "images": [
+            "media/eps-topik/689e35d9e668513e.png"
+          ]
+        },
+        {
+          "text": "",
+          "images": [
+            "media/eps-topik/3dca2d4e66b72e8d.png"
+          ]
+        },
+        {
+          "text": "",
+          "images": [
+            "media/eps-topik/2a65e6e0f6e6b074.png"
+          ]
+        },
+        {
+          "text": "",
+          "images": [
+            "media/eps-topik/7208836a0f06095a.png"
+          ]
+        }
+      ],
+      "answer": 2,
+      "audio": "media/eps-topik/64e44f647a763433.mp3"
+    },
+    {
+      "id": "reference-1655",
+      "sourceId": "1655",
+      "number": 37,
+      "section": "listening",
+      "group": "47",
+      "instruction": "[36-37] 다음을 듣고 그림 내용과 관계 있는 그림을 고르십시오.",
+      "prompt": "",
+      "images": [],
+      "choices": [
+        {
+          "text": "",
+          "images": [
+            "media/eps-topik/bf6c3e95761c42a0.png"
+          ]
+        },
+        {
+          "text": "",
+          "images": [
+            "media/eps-topik/cb1d9159f2c5e80f.png"
+          ]
+        },
+        {
+          "text": "",
+          "images": [
+            "media/eps-topik/e996dab5345a90f5.png"
+          ]
+        },
+        {
+          "text": "",
+          "images": [
+            "media/eps-topik/5356ff77a4e41cd2.png"
+          ]
+        }
+      ],
+      "answer": 2,
+      "audio": "media/eps-topik/27a82ed1b44e5a25.mp3"
+    },
+    {
+      "id": "reference-1870",
+      "sourceId": "1870",
+      "number": 38,
+      "section": "listening",
+      "group": "48",
+      "instruction": "[38-40] 다음 이야기를 듣고 질문에 알맞은 대답을 고르십시오.",
+      "prompt": "두 사람이 대화하고 있는 곳은 어디입니까?",
+      "images": [],
+      "choices": [
+        {
+          "text": "남자의 집",
+          "images": []
+        },
+        {
+          "text": "여자의 집",
+          "images": []
+        },
+        {
+          "text": "가구 공장",
+          "images": []
+        },
+        {
+          "text": "부동산 중개소",
+          "images": []
+        }
+      ],
+      "answer": 0,
+      "audio": "media/eps-topik/385b242a3236b33a.mp3"
+    },
+    {
+      "id": "reference-1999",
+      "sourceId": "1999",
+      "number": 39,
+      "section": "listening",
+      "group": "48",
+      "instruction": "[38-40] 다음 이야기를 듣고 질문에 알맞은 대답을 고르십시오.",
+      "prompt": "다음 중 남자가 꼭 지켜야 할 일이 아닌 것은 무엇입니까?",
+      "images": [],
+      "choices": [
+        {
+          "text": "귀마개 하기",
+          "images": []
+        },
+        {
+          "text": "마스크 쓰기",
+          "images": []
+        },
+        {
+          "text": "비누로 손 씻기",
+          "images": []
+        },
+        {
+          "text": "깨끗하게 청소하기",
+          "images": []
+        }
+      ],
+      "answer": 3,
+      "audio": "media/eps-topik/d2c187f850141055.mp3"
+    },
+    {
+      "id": "reference-1979",
+      "sourceId": "1979",
+      "number": 40,
+      "section": "listening",
+      "group": "48",
+      "instruction": "[38-40] 다음 이야기를 듣고 질문에 알맞은 대답을 고르십시오.",
+      "prompt": "남자는 얼마를 내야 합니까?",
+      "images": [],
+      "choices": [
+        {
+          "text": "2,000원",
+          "images": []
+        },
+        {
+          "text": "4,000원",
+          "images": []
+        },
+        {
+          "text": "7,000원",
+          "images": []
+        },
+        {
+          "text": "9,000원",
+          "images": []
+        }
+      ],
+      "answer": 3,
+      "audio": "media/eps-topik/ab8b452d2285f8e8.mp3"
+    }
+  ],
+  "sequence": [
+    {
+      "src": "media/eps-topik/793a26b9e51de5df.mp3",
+      "label": "Listening introduction"
+    },
+    {
+      "src": "media/eps-topik/6aea3dd3a694b477.mp3",
+      "label": "Section instructions",
+      "example": true,
+      "exampleImage": "media/eps-topik/d39521744b280ca5.png"
+    },
+    {
+      "question": 21
+    },
+    {
+      "src": "media/eps-topik/bd1943f6ea50bf00.mp3",
+      "label": "Question 21"
+    },
+    {
+      "src": "media/eps-topik/165c02ca0bfecc0b.mp3",
+      "label": "Question recording"
+    },
+    {
+      "src": "media/eps-topik/292b854d72eb007e.mp3",
+      "label": "Listen again"
+    },
+    {
+      "src": "media/eps-topik/165c02ca0bfecc0b.mp3",
+      "label": "Question recording"
+    },
+    {
+      "question": 22
+    },
+    {
+      "src": "media/eps-topik/b99ad85412dafefb.mp3",
+      "label": "Question 22"
+    },
+    {
+      "src": "media/eps-topik/3619c9582e079f64.mp3",
+      "label": "Question recording"
+    },
+    {
+      "src": "media/eps-topik/292b854d72eb007e.mp3",
+      "label": "Listen again"
+    },
+    {
+      "src": "media/eps-topik/3619c9582e079f64.mp3",
+      "label": "Question recording"
+    },
+    {
+      "question": 23
+    },
+    {
+      "src": "media/eps-topik/19e948c5fdd6cdad.mp3",
+      "label": "Question 23"
+    },
+    {
+      "src": "media/eps-topik/ae99f14e6d493c90.mp3",
+      "label": "Question recording"
+    },
+    {
+      "src": "media/eps-topik/292b854d72eb007e.mp3",
+      "label": "Listen again"
+    },
+    {
+      "src": "media/eps-topik/ae99f14e6d493c90.mp3",
+      "label": "Question recording"
+    },
+    {
+      "question": 24
+    },
+    {
+      "src": "media/eps-topik/459e21bebf8ef453.mp3",
+      "label": "Question 24"
+    },
+    {
+      "src": "media/eps-topik/bff098fc464963c6.mp3",
+      "label": "Question recording"
+    },
+    {
+      "src": "media/eps-topik/292b854d72eb007e.mp3",
+      "label": "Listen again"
+    },
+    {
+      "src": "media/eps-topik/bff098fc464963c6.mp3",
+      "label": "Question recording"
+    },
+    {
+      "src": "media/eps-topik/b22c982cd257c73c.mp3",
+      "label": "Section instructions",
+      "example": true,
+      "exampleImage": "media/eps-topik/528e8ef2b29b9a63.png"
+    },
+    {
+      "question": 25
+    },
+    {
+      "src": "media/eps-topik/29698678044ddad3.mp3",
+      "label": "Question 25"
+    },
+    {
+      "src": "media/eps-topik/053b1efd4f5e953b.mp3",
+      "label": "Question recording"
+    },
+    {
+      "src": "media/eps-topik/292b854d72eb007e.mp3",
+      "label": "Listen again"
+    },
+    {
+      "src": "media/eps-topik/053b1efd4f5e953b.mp3",
+      "label": "Question recording"
+    },
+    {
+      "question": 26
+    },
+    {
+      "src": "media/eps-topik/8fae964d30d4fc94.mp3",
+      "label": "Question 26"
+    },
+    {
+      "src": "media/eps-topik/416c89bb98dd869a.mp3",
+      "label": "Question recording"
+    },
+    {
+      "src": "media/eps-topik/292b854d72eb007e.mp3",
+      "label": "Listen again"
+    },
+    {
+      "src": "media/eps-topik/416c89bb98dd869a.mp3",
+      "label": "Question recording"
+    },
+    {
+      "question": 27
+    },
+    {
+      "src": "media/eps-topik/477e6fab3ba88a88.mp3",
+      "label": "Question 27"
+    },
+    {
+      "src": "media/eps-topik/85493dfd684f5db5.mp3",
+      "label": "Question recording"
+    },
+    {
+      "src": "media/eps-topik/292b854d72eb007e.mp3",
+      "label": "Listen again"
+    },
+    {
+      "src": "media/eps-topik/85493dfd684f5db5.mp3",
+      "label": "Question recording"
+    },
+    {
+      "question": 28
+    },
+    {
+      "src": "media/eps-topik/7fa44943605830bc.mp3",
+      "label": "Question 28"
+    },
+    {
+      "src": "media/eps-topik/f8d2114b5d924faf.mp3",
+      "label": "Question recording"
+    },
+    {
+      "src": "media/eps-topik/292b854d72eb007e.mp3",
+      "label": "Listen again"
+    },
+    {
+      "src": "media/eps-topik/f8d2114b5d924faf.mp3",
+      "label": "Question recording"
+    },
+    {
+      "question": 29
+    },
+    {
+      "src": "media/eps-topik/35d4e68d30060a90.mp3",
+      "label": "Question 29"
+    },
+    {
+      "src": "media/eps-topik/9ffd4267d559666c.mp3",
+      "label": "Question recording"
+    },
+    {
+      "src": "media/eps-topik/292b854d72eb007e.mp3",
+      "label": "Listen again"
+    },
+    {
+      "src": "media/eps-topik/9ffd4267d559666c.mp3",
+      "label": "Question recording"
+    },
+    {
+      "src": "media/eps-topik/1f3314243df45ffd.mp3",
+      "label": "Section instructions",
+      "example": true,
+      "exampleImage": "media/eps-topik/dd5cc53abcb0c405.png"
+    },
+    {
+      "question": 30
+    },
+    {
+      "src": "media/eps-topik/7b30c46cd617c822.mp3",
+      "label": "Question 30"
+    },
+    {
+      "src": "media/eps-topik/4bc090fec3dd94f4.mp3",
+      "label": "Question recording"
+    },
+    {
+      "src": "media/eps-topik/292b854d72eb007e.mp3",
+      "label": "Listen again"
+    },
+    {
+      "src": "media/eps-topik/4bc090fec3dd94f4.mp3",
+      "label": "Question recording"
+    },
+    {
+      "question": 31
+    },
+    {
+      "src": "media/eps-topik/12a1150c725a6826.mp3",
+      "label": "Question 31"
+    },
+    {
+      "src": "media/eps-topik/0448b6ebb67c9f25.mp3",
+      "label": "Question recording"
+    },
+    {
+      "src": "media/eps-topik/292b854d72eb007e.mp3",
+      "label": "Listen again"
+    },
+    {
+      "src": "media/eps-topik/0448b6ebb67c9f25.mp3",
+      "label": "Question recording"
+    },
+    {
+      "question": 32
+    },
+    {
+      "src": "media/eps-topik/7bec65c8c5b804d5.mp3",
+      "label": "Question 32"
+    },
+    {
+      "src": "media/eps-topik/8b4707b710c7251b.mp3",
+      "label": "Question recording"
+    },
+    {
+      "src": "media/eps-topik/292b854d72eb007e.mp3",
+      "label": "Listen again"
+    },
+    {
+      "src": "media/eps-topik/8b4707b710c7251b.mp3",
+      "label": "Question recording"
+    },
+    {
+      "question": 33
+    },
+    {
+      "src": "media/eps-topik/73b9fafe629ca2c7.mp3",
+      "label": "Question 33"
+    },
+    {
+      "src": "media/eps-topik/e10d9df86c18a4a1.mp3",
+      "label": "Question recording"
+    },
+    {
+      "src": "media/eps-topik/292b854d72eb007e.mp3",
+      "label": "Listen again"
+    },
+    {
+      "src": "media/eps-topik/e10d9df86c18a4a1.mp3",
+      "label": "Question recording"
+    },
+    {
+      "src": "media/eps-topik/837368864329286d.mp3",
+      "label": "Section instructions",
+      "example": true,
+      "exampleImage": "media/eps-topik/f35b0091e3927e51.png"
+    },
+    {
+      "question": 34
+    },
+    {
+      "src": "media/eps-topik/39a2dabba24a1fa1.mp3",
+      "label": "Question 34"
+    },
+    {
+      "src": "media/eps-topik/4ee932b714461765.mp3",
+      "label": "Question recording"
+    },
+    {
+      "src": "media/eps-topik/292b854d72eb007e.mp3",
+      "label": "Listen again"
+    },
+    {
+      "src": "media/eps-topik/4ee932b714461765.mp3",
+      "label": "Question recording"
+    },
+    {
+      "question": 35
+    },
+    {
+      "src": "media/eps-topik/a679aa9e53548a7c.mp3",
+      "label": "Question 35"
+    },
+    {
+      "src": "media/eps-topik/44089d7bdd59ad1f.mp3",
+      "label": "Question recording"
+    },
+    {
+      "src": "media/eps-topik/292b854d72eb007e.mp3",
+      "label": "Listen again"
+    },
+    {
+      "src": "media/eps-topik/44089d7bdd59ad1f.mp3",
+      "label": "Question recording"
+    },
+    {
+      "src": "media/eps-topik/47351fda681a9a79.mp3",
+      "label": "Section instructions",
+      "example": true,
+      "exampleImage": "media/eps-topik/9dbc50fb2b36462d.png"
+    },
+    {
+      "question": 36
+    },
+    {
+      "src": "media/eps-topik/ac8180569cf26128.mp3",
+      "label": "Question 36"
+    },
+    {
+      "src": "media/eps-topik/64e44f647a763433.mp3",
+      "label": "Question recording"
+    },
+    {
+      "src": "media/eps-topik/292b854d72eb007e.mp3",
+      "label": "Listen again"
+    },
+    {
+      "src": "media/eps-topik/64e44f647a763433.mp3",
+      "label": "Question recording"
+    },
+    {
+      "question": 37
+    },
+    {
+      "src": "media/eps-topik/1e4ff80d7305051b.mp3",
+      "label": "Question 37"
+    },
+    {
+      "src": "media/eps-topik/27a82ed1b44e5a25.mp3",
+      "label": "Question recording"
+    },
+    {
+      "src": "media/eps-topik/292b854d72eb007e.mp3",
+      "label": "Listen again"
+    },
+    {
+      "src": "media/eps-topik/27a82ed1b44e5a25.mp3",
+      "label": "Question recording"
+    },
+    {
+      "src": "media/eps-topik/da1059fc721cdd4f.mp3",
+      "label": "Section instructions",
+      "example": true,
+      "exampleImage": "media/eps-topik/cac561b2e54c339e.png"
+    },
+    {
+      "question": 38
+    },
+    {
+      "src": "media/eps-topik/9c60a186d37d4235.mp3",
+      "label": "Question 38"
+    },
+    {
+      "src": "media/eps-topik/385b242a3236b33a.mp3",
+      "label": "Question recording"
+    },
+    {
+      "src": "media/eps-topik/292b854d72eb007e.mp3",
+      "label": "Listen again"
+    },
+    {
+      "src": "media/eps-topik/385b242a3236b33a.mp3",
+      "label": "Question recording"
+    },
+    {
+      "question": 39
+    },
+    {
+      "src": "media/eps-topik/660bf977f287ea11.mp3",
+      "label": "Question 39"
+    },
+    {
+      "src": "media/eps-topik/d2c187f850141055.mp3",
+      "label": "Question recording"
+    },
+    {
+      "src": "media/eps-topik/292b854d72eb007e.mp3",
+      "label": "Listen again"
+    },
+    {
+      "src": "media/eps-topik/d2c187f850141055.mp3",
+      "label": "Question recording"
+    },
+    {
+      "question": 40
+    },
+    {
+      "src": "media/eps-topik/be321777e66689ac.mp3",
+      "label": "Question 40"
+    },
+    {
+      "src": "media/eps-topik/ab8b452d2285f8e8.mp3",
+      "label": "Question recording"
+    },
+    {
+      "src": "media/eps-topik/292b854d72eb007e.mp3",
+      "label": "Listen again"
+    },
+    {
+      "src": "media/eps-topik/ab8b452d2285f8e8.mp3",
+      "label": "Question recording"
+    }
+  ],
+  "examples": [
+    {
+      "src": "media/eps-topik/d39521744b280ca5.png",
+      "group": null
+    },
+    {
+      "src": "media/eps-topik/528e8ef2b29b9a63.png",
+      "group": null
+    },
+    {
+      "src": "media/eps-topik/dd5cc53abcb0c405.png",
+      "group": null
+    },
+    {
+      "src": "media/eps-topik/f35b0091e3927e51.png",
+      "group": null
+    },
+    {
+      "src": "media/eps-topik/9dbc50fb2b36462d.png",
+      "group": null
+    },
+    {
+      "src": "media/eps-topik/cac561b2e54c339e.png",
+      "group": null
+    }
+  ]
+}

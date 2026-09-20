@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="JCAN EPS-TOPIK computer-based mock test with Korean reading, picture questions and recorded listening.">
+  <title>EPS-TOPIK CBT | JCAN Korean Language Center</title>
+  <link rel="stylesheet" href="css/cbt.css">
+  <script type="module" src="js/cbt.mjs"></script>
+</head>
+<body>
+  <a href="#main" class="skip-link">Skip to exam</a>
+  <header class="site-header">
+    <a class="brand" href="index.html"><img src="logo.png" alt="" width="48" height="48"><span><strong>JCAN</strong><small>Korean Language Center</small></span></a>
+    <nav aria-label="Main navigation"><a href="exams.html">Practice exams</a><span>EPS-TOPIK CBT</span></nav>
+  </header>
+  <main id="main" tabindex="-1">
+    <div id="app"><section class="panel loading" role="status">Loading exam materials…</section></div>
+    <noscript><p class="panel">Enable JavaScript to take this exam.</p></noscript>
+  </main>
+  <p id="notice" class="notice" role="status" aria-live="polite"></p>
+  <dialog id="confirm-dialog" aria-labelledby="confirm-title">
+    <h2 id="confirm-title">Finish this section?</h2><p id="confirm-message"></p>
+    <div class="actions"><button id="cancel-confirm" class="secondary">Keep working</button><button id="accept-confirm">Finish section</button></div>
+  </dialog>
+  <footer class="site-footer">JCAN practice test · For preparation, not an official HRD Korea examination.</footer>
+</body>
+</html>
